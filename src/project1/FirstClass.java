@@ -7,4 +7,6 @@ public class FirstClass {
 
     // 2.2 from Thi to see if there is conflict
 
+    // 2.3 from Thi to see if there is conflict before merge
+
 }
